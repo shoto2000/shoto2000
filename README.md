@@ -1,4 +1,3 @@
-![MasterHead](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+I+am+Tayyab+Ali!;Learning+Java+Back-end+Development...;" style="width: 100%;">
 </div>
@@ -49,13 +48,20 @@
 
 <h3>Statistical Data :-</h3>
 <div align="center">
-<a href="http://www.github.com/shoto2000"><img src="https://github-readme-stats.vercel.app/api?username=shoto2000&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="gautam6023's GitHub stats" /></a>
-<a href="https://github.com/shoto2000" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoto2000&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<br>
-<a href="http://www.github.com/shoto2000"><img src="https://activity-graph.herokuapp.com/graph?username=shoto2000&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<br>
+    <a href="http://www.github.com/shoto2000"><img
+            src="https://activity-graph.herokuapp.com/graph?username=shoto2000&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
+            alt="GitHub Commits Graph" /></a>
+    <br>
+    <a href="http://www.github.com/shoto2000"><img
+            src="https://github-readme-stats.vercel.app/api?username=shoto2000&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true"
+            alt="gautam6023's GitHub stats" /></a>
+    <a href="http://www.github.com/shoto2000"><img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=shoto2000&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    <br>
+    <a href="https://github.com/shoto2000/github-readme-stats"><img alt="Tayyab's Top Languages"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoto2000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <br>
 
-<a href="http://www.github.com/shoto2000"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shoto2000&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></a>
 </div>
 
 <h1 align="center"> Thank You ⚡</h1>
