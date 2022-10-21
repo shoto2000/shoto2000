@@ -6,13 +6,13 @@
 **shoto2000/shoto2000** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <div align="left">
   🔭 I’m currently learning Springboot and other backend frameworks<br>
   💬 Ask me about Java, MySql, Data Structure And Algorithm<br>
   ⚡ Fun fact A snail can sleep for three years.<br><br>
-  Quick Learner And An JAVA Backend Developer.<br>
-  Worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking Forward To Applying And Enhancing My Skills And Knowledge As A Developer<br>
+  <b>Quick Learner And A JAVA Backend Developer. </b>Working with Java stack and programming languages like JavaScript catalyzed my curiosity for web development.
+  Worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking Forward To Applying And Enhancing My Skills And Knowledge As A Developer. <br>
     <h3>Connect with me ⚡</h3>
     <h3>
     <a href="mailto: tayyabsyed2000@gmail.com">
@@ -49,10 +49,6 @@
 <h3>Statistical Data :-</h3>
 <div align="center">
     <a href="http://www.github.com/shoto2000"><img
-            src="https://activity-graph.herokuapp.com/graph?username=shoto2000&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
-            alt="GitHub Commits Graph" /></a>
-    <br>
-    <a href="http://www.github.com/shoto2000"><img
             src="https://github-readme-stats.vercel.app/api?username=shoto2000&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true"
             alt="gautam6023's GitHub stats" /></a>
     <a href="http://www.github.com/shoto2000"><img
@@ -63,5 +59,29 @@
     <br>
 
 </div>
+<h2>ℹ️ &nbsp;Github Info</h2>
+<details>
+    <summary><b>🔎 Github Profile Details</b></summary>
+    <p align="center"><img height="180em"
+            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoto2000&theme=github_dark"
+            alt="Tayyab's" align="center" /></p>
+</details>
+<details>
+    <!--  <summary><b>🔥 Github Streaks</b></summary>
+  <p align="center"><img src="https://github-readme-streak-statskbiswal01s.herokuapp.com/?user=Dhruva8878&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Dhruv" /></p>
+  </details> -->
+    <details>
+        <summary><b>📊 Github Contribution Graph</b></summary>
+        <p align="center" <a href="#"><img alt="Dhruv"
+                src="https://activity-graph.herokuapp.com/graph?username=shoto2000&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a>
+        </p>
+    </details>
+    <details>
+        <summary><b>🏆 Github Achievements</b></summary>
+        <p align="center"> <a href="https://github.com/shoto2000"><img
+                    src="https://github-profile-trophy.vercel.app/?username=shoto2000&margin-w=5&theme=radical"
+                    alt="Dhruv" /></a> </p>
+    </details>
+</details>
 
 <h1 align="center"> Thank You ⚡</h1>
