@@ -10,7 +10,8 @@
 <div align="left">
   🔭 I’m currently learning Springboot and other backend frameworks<br>
   💬 Ask me about Java, MySql, Data Structure And Algorithm<br>
-  ⚡ Fun fact A snail can sleep for three years.<br><br>
+  ⚡ Fun fact - A snail can sleep for three years.<br>
+  😄 Pronouns: He/His<br><br>
   <b>Quick Learner And A JAVA Backend Developer. </b>Working with Java stack and programming languages like JavaScript catalyzed my curiosity for web development.
   Worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking Forward To Applying And Enhancing My Skills And Knowledge As A Developer. <br>
     <h3>Connect with me ⚡</h3>
@@ -36,7 +37,6 @@
     </a>
   </h3>
   <br>
-  😄 Pronouns: He/His
 </div>
 <br>
   <h3>My Skills</h3>
