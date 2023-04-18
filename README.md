@@ -48,40 +48,22 @@
 
 <h3>Statistical Data :-</h3>
 <div align="center">
-    <a href="http://www.github.com/shoto2000"><img width="45%"
-            src="https://github-readme-stats.vercel.app/api?username=shoto2000&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true"
-            alt="gautam6023's GitHub stats" /></a>
-    <a href="http://www.github.com/shoto2000"><img width="45%"
-            src="https://github-readme-streak-stats.herokuapp.com/?user=shoto2000&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    <br>
-    <a href="https://github.com/shoto2000/github-readme-stats"><img alt="Tayyab's Top Languages"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoto2000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <br>
 
+<a href="https://github.com/123bhagesh">
+
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoto2000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shoto2000&layout=compact&langs_count=5&theme=algolia"/>
+
+<img align="center" height="170rem" src="https://github-readme-streak-stats.herokuapp.com/?user=shoto2000&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+</a>
 </div>
-<h2>ℹ️ &nbsp;Github Info</h2>
-<details>
-    <summary><b>🔎 Github Profile Details</b></summary>
-    <p align="center"><img height="180em"
+<br>
+      <p align="center"><img height="180em"
             src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoto2000&theme=github_dark"
             alt="Tayyab's" align="center" /></p>
-</details>
-<details>
-    <!--  <summary><b>🔥 Github Streaks</b></summary>
-  <p align="center"><img src="https://github-readme-streak-statskbiswal01s.herokuapp.com/?user=Dhruva8878&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Dhruv" /></p>
-  </details> -->
-    <details>
-        <summary><b>📊 Github Contribution Graph</b></summary>
-        <p align="center" <a href="#"><img alt="Dhruv"
-                src="https://activity-graph.herokuapp.com/graph?username=shoto2000&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a>
-        </p>
-    </details>
-    <details>
-        <summary><b>🏆 Github Achievements</b></summary>
-        <p align="center"> <a href="https://github.com/shoto2000"><img
-                    src="https://github-profile-trophy.vercel.app/?username=shoto2000&margin-w=5&theme=radical"
-                    alt="Dhruv" /></a> </p>
-    </details>
-</details>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="1000px" src="https://github-profile-trophy.vercel.app/?username=shoto2000" alt="123bhagesh" /></a> </p>
+<br>
 
 <h1 align="center"> Thank You ⚡</h1>
