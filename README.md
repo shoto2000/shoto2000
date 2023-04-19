@@ -28,8 +28,8 @@
     </a>
   <br>
   <h3>
-  <a href="https://tayyab-ali.netlify.app/" target="_blank">
-    Click to open My Portfolio
+  <a href="https://shoto2000.github.io/Tayyab-Ali-Portfolio/" target="_blank">
+    My Portfolio
     </a>
     <br>
     <a href="https://drive.google.com/file/d/1wfNlmNkm8X5u3DQCauP4EDSKpha63Kbg/view?usp=sharing" target="_blank">
