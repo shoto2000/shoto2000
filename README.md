@@ -53,7 +53,7 @@
 
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shoto2000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anshulKumarYadav&layout=compact&langs_count=5&theme=algolia"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shoto2000&layout=compact&langs_count=5&theme=algolia"/>
 
 <img align="center" height="170rem" src="https://github-readme-streak-stats.herokuapp.com/?user=shoto2000&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
 </a>
