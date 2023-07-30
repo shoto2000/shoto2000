@@ -63,7 +63,7 @@
             src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoto2000&theme=github_dark"
             alt="Tayyab's" align="center" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="1000px" src="https://github-profile-trophy.vercel.app/?username=shoto2000" alt="123bhagesh" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=shoto2000"><img width="1000px" src="https://github-profile-trophy.vercel.app/?username=shoto2000" alt="123bhagesh" /></a> </p>
 <br>
 
 <h1 align="center"> Thank You ⚡</h1>
