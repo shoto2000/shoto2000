@@ -32,7 +32,7 @@
     My Portfolio
     </a>
     <br>
-    <a href="https://drive.google.com/file/d/1wfNlmNkm8X5u3DQCauP4EDSKpha63Kbg/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1hz6iXGf-BDH_CrPr-k2HwDqB7TLZ0n7g/view?usp=sharing" target="_blank">
     My Resume
     </a>
   </h3>
